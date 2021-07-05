@@ -9,18 +9,25 @@ h1{
     font-weight: 5000;
     color:rgb(68, 64, 64);
 }
+h2{
+    font-size:50px ;
+    color: rgb(68, 64, 64);
+}
 p{
     color: grey;
-    font-size: 30px;
+    font-size: 25px;
+    margin-bottom: 100px;
+   
+    
+    
 }
 .red{
     color: red;
 }
 .link-button{
     text-decoration: none;
-    background-image: linear-gradient(yellow, green);
-    margin: 10px 10px;
-    padding: 20px 40px;
+    background-image: linear-gradient(yellow, rgb(110, 77, 16));
+    padding: 30px 60px;
     border-radius: 50px;
     color: white;
     font-size: 20px;
@@ -33,8 +40,36 @@ p{
 
 }
 .half-width img{
-    width: 100%;
+    width: 80%;
 }
-.skip-diet{
+.diet-issue{
     display: flex;
+}
+.about-me{
+    display: flex;
+    background-image: url(images/shapes/Frame\ 59.jpg);
+    background-repeat: no-repeat;
+}
+.cooking-inspiration{
+    text-align: center;
+}
+.cooking-items{
+    display: flex;
+    
+   
+   
+}
+.various-recipies{
+     width: 25%;
+     height: 750px;
+     margin: 20px 50px ;
+     padding: 20px 30px;
+     text-align: justify;
+     box-shadow: 10px 10px 30px grey;
+     border-radius: 15px;
+     
+}
+.various-recipies img{
+    width: 100%;
+
 }
