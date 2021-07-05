@@ -17,9 +17,6 @@ p{
     color: grey;
     font-size: 25px;
     margin-bottom: 100px;
-   
-    
-    
 }
 .red{
     color: red;
@@ -49,6 +46,34 @@ p{
     display: flex;
     background-image: url(images/shapes/Frame\ 59.jpg);
     background-repeat: no-repeat;
+}
+.food-inquiry h4{
+    font-size: 30px;
+   color: red;
+   margin-left: 500px;
+   padding-top:35px;
+   display: inline;
+   float: left;
+}
+.food-inquiry{
+   background-image: url(images/shapes/blue.png);
+   width: 100%;
+   height: 150px;
+   background-size: 700px;
+   background-position:center ;
+   background-repeat: no-repeat;
+
+}
+.inquiry-button{
+   text-decoration: none;
+   background-color: seagreen;
+   color: white;
+   padding: 10px 30px;
+   border-radius: 5px;
+   float: right;
+   display: inline;
+   margin-right: 550px;
+   margin-top: 40px;
 }
 .cooking-inspiration{
     text-align: center;
