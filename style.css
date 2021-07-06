@@ -4,6 +4,15 @@ body{
 section{
     margin-bottom: 100px;
 }
+.foody-zone{
+    background-image: url(images/shapes/background-pic.png);
+}
+.healthy-food h1{
+    color: crimson;
+    font-size: 80px;
+    text-align: center;
+    
+}
 h1{
     font-size: 70px;
     font-weight: 900;
@@ -16,7 +25,7 @@ h2{
 p{
     color: grey;
     font-size: 25px;
-    margin-bottom: 100px;
+    margin-bottom: 60px;
 }
 .red{
     color: red;
@@ -37,7 +46,7 @@ p{
 
 }
 .half-width img{
-    width: 80%;
+    width: 100%;
 }
 .diet-issue{
     display: flex;
