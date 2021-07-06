@@ -1,6 +1,6 @@
 body{
     font-family: 'Poppins', sans-serif;
-}
+} 
 section{
     margin-bottom: 100px;
 }
@@ -26,6 +26,9 @@ p{
     color: grey;
     font-size: 25px;
     margin-bottom: 60px;
+}
+ol{
+    font-size: 20px;
 }
 .red{
     color: red;
